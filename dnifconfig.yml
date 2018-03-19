@@ -1,0 +1,2 @@
+enrichment_plugin:
+  FEODOTRACKER_IP_SOURCE: https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
