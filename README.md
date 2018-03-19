@@ -25,10 +25,6 @@ Attention: Since Feodo C&C servers associated with version A, version C, version
 its likely that you also block/drop legit traffic e.g. towards websites hosted on a certain IP address acting as Feodo C&C for version A, version C and version D.
 
 
-#### Contact Information
- contactme@abuse.ch
-
-
 ### Using the Feodo Tracker feed API
  The Feodo Tracker feed API is found on github at
 
