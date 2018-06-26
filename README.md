@@ -32,7 +32,7 @@ https://github.com/dnif/enrich-feodotracker
 
 #### Getting started with Bambenek Consulting feeds API
 
-1. #####    Login to your Data Store, A10 containers  
+1. #####    Login to your AD, A10 containers  
    ACCESS DNIF CONTAINER VIA SSH : [Click To Know How](https://dnif.it/docs/guides/tutorials/access-dnif-container-via-ssh.html)
 2. #####    Move to the ‘/dnif/<Deployment-key/enrichment_plugins’ folder path.
 ```
