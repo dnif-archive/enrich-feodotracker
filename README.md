@@ -30,7 +30,7 @@ Outbound access required to request Feodo Tracker IP feed API
 | Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
 |:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
 | TCP | AD,A10 | Any | Egress	| github.com | 443 |
-| TCP | AD,A10 | Any | Egress	| feodotracker.abuse.ch | 443 | 
+| TCP | AD,A10 | Any | Egress	| abuse.ch | 443 | 
 
 
 ### Using the Feodo Tracker feed API
