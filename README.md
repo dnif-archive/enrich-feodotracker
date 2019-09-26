@@ -24,6 +24,14 @@
 Attention: Since Feodo C&C servers associated with version A, version C, version D and version E are usually hosted on compromised servers, 
 its likely that you also block/drop legit traffic e.g. towards websites hosted on a certain IP address acting as Feodo C&C for version A, version C and version D.
 
+##### PRE-REQUISITES to use Feodo Tracker IP feeds and DNIF  
+Outbound access required to request Feodo Tracker IP feed API
+
+| Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
+|:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
+| TCP | AD,A10 | Any | Egress	| github.com | 443 |
+| TCP | AD,A10 | Any | Egress	| abuse.ch | 443 | 
+
 
 ### Using the Feodo Tracker feed API
  The Feodo Tracker feed API is found on github at
